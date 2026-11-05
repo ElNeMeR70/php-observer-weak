@@ -1,0 +1,20 @@
+{
+  "name": "elnemer70/php-observer-weak",
+  "description": "Observer with weak references to prevent memory leaks",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElNeMeR70\\\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud ElNemer",
+      "email": "sultanelnemer@gmail.com"
+    }
+  ]
+}
